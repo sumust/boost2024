@@ -3,4 +3,5 @@
 This website hosts the materials for the lectures presented at BOOST 2024. 
 
 * [Machine Learning for the Rest of Us by Dr. Keshav Pingali](https://sumust.github.io/mlfortherestofus/)
-* [Computation for Content Creation by Dr. Abe Davis](https://sumust.github.io/computationforcontentcreation/) 
+* [Chatting about Transformers: an Introduction to Large Language Models by Dr. Gianfranco Bilardi](https://github.com/sumust/boost2024/blob/main/transformer_Bilardi_BOOST24.pdf)
+* [Computation for Content Creation by Dr. Abe Davis](https://sumust.github.io/computationforcontentcreation/)
