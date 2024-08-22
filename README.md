@@ -1,6 +1,8 @@
 # BOOST 2024
 
-This website hosts the materials for the lectures presented at BOOST 2024. 
+This website hosts the materials for the lectures presented at Bologna Orthogonal Summer Term (BOOST) 2024 in Bologna, Italy. 
+
+## Lectures
 
 * [Machine Learning for the Rest of Us by Dr. Keshav Pingali](https://sumust.github.io/mlfortherestofus/)
 * Chatting about Transformers: an Introduction to Large Language Models by Dr. Gianfranco Bilardi
