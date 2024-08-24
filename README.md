@@ -9,3 +9,4 @@ This website hosts the materials for the lectures presented at Bologna Orthogona
 * [Computation for Content Creation by Dr. Abe Davis](https://sumust.github.io/computationforcontentcreation/)
 * Forecasting Rhapsody: Algorithmic Models and Hybrids for Time Series Forecasting
   * [Dataset](https://github.com/sumust/boost2024/blob/main/BoxJenkins.csv)
+  * [Slides](https://github.com/sumust/boost2024/blob/main/forecasting_rhapsody.pdf)
