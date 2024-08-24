@@ -5,7 +5,6 @@ This website hosts the materials for the lectures presented at Bologna Orthogona
 ## Lectures
 
 * [Machine Learning for the Rest of Us by Dr. Keshav Pingali](https://sumust.github.io/mlfortherestofus/)
-* Chatting about Transformers: an Introduction to Large Language Models by Dr. Gianfranco Bilardi
-  * [Part 1 Slides](https://github.com/sumust/boost2024/blob/main/transformer_Bilardi_BOOST24.pdf)
-  * Part 2 Slides: TBA
+* [Chatting about Transformers: an Introduction to Large Language Models by Dr. Gianfranco Bilardi](https://github.com/sumust/boost2024/blob/main/transformer_Bilardi_BOOST24.pdf)
 * [Computation for Content Creation by Dr. Abe Davis](https://sumust.github.io/computationforcontentcreation/)
+* [Forecasting Rhapsody: Algorithmic Models and Hybrids for Time Series Forecasting](https://github.com/sumust/boost2024/blob/main/BoxJenkins.csv)
